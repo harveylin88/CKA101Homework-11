@@ -1,6 +1,6 @@
 
 
-public class hw1 {
+public class Hw1 {
 
 	public static void main(String[] args) {
 		int a=12,b=6,c=a+b,d=a*b;

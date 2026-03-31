@@ -1,5 +1,5 @@
 
-public class hw2 {
+public class Hw2_1 {
 public static void main(String[] args) {
 	int i,j=0;	
 	for( i=1;i<=1000;i++) {
